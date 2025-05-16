@@ -1,6 +1,11 @@
 
 # 💫 About Me:
-🔭 I’m currently working on studenckieoceny.com<br>🌱 I’m currently studying computer science at PUT<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi! I'm Mikołaj – Frontend Developer focused on UI, web design & modern tech.
+
+🔭 Currently building: Uni Swipe & Insta Coffee  
+🎨 I design in Figma & implement with Next.js + Tailwind  
+🌱 Learning: Framer Motion, shadcn/ui, SSR in Next.js  
+👯 Open to UI/UX-heavy frontend collabs  
 
 
 ## 🌐 Socials:
