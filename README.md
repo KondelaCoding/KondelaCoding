@@ -2,10 +2,9 @@
 # 💫 About Me:
 👋 Hi! I'm Mikołaj – Frontend Developer focused on UI, web design & modern tech.
 
-🔭 Currently building: Uni Swipe & Insta Coffee  
+🔭 Currently working at: Smart Pension
 🎨 I design in Figma & implement with Next.js + Tailwind  
 🌱 Learning: Framer Motion, shadcn/ui, SSR in Next.js  
-👯 Open to UI/UX-heavy frontend collabs  
 
 
 ## 🌐 Socials:
