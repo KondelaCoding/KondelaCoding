@@ -2,7 +2,7 @@
 # 💫 About Me:
 👋 Hi! I'm Mikołaj – Frontend Developer focused on UI, web design & modern tech.
 
-🔭 Currently working at: Smart Pension
+🔭 Currently working at: Smart Pension  
 🎨 I design in Figma & implement with Next.js + Tailwind  
 🌱 Learning: Framer Motion, shadcn/ui, SSR in Next.js  
 
